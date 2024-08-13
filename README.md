@@ -14,6 +14,6 @@ In case you get stuck, we've got your back! These <a href="https://makerchip.com
 
 Here's a pre-built logic diagram of the final CPU. Ctrl-click here to [explore in its own tab](https://raw.githubusercontent.com/stevehoover/LF-Building-a-RISC-V-CPU-Core/main/lib/riscv.svg).
 
-
+## Keep going and Happy learning!!
 
 ![VIZ](LF_VIZ.png)
