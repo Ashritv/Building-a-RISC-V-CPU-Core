@@ -6,7 +6,7 @@ Helpful Resources used from <a> [Building a RISC-V CPU Core EdX](https://learnin
 This Repository contains the full code of RISC-V CPU CORE developed during the course and also includes resources provided in Linux Foundation by Steve Hoover
 
 ## Solution Code
-The Solution code for Building RISC-V CPU CORE on Makerchip IDE using TL-verilog was developed by Ashrit V during the course timeline.You can find the Solution <a>here<a/> and it is encouraged to take up the course and write the code on your own for understanding the working of each stage during CPU build.
+The Solution code for Building RISC-V CPU CORE on Makerchip IDE using TL-verilog was developed by Ashrit V during the course timeline.You can find the Solution <a>[here](https://github.com/Ashritv/Building-a-RISC-V-CPU-Core/blob/main/Riscv_solution_full.tlv)<a/> and it is encouraged to take up the course and write the code on your own for understanding the working of each stage during CPU build.
 
 ## RISC-V Reference Solution
 
